@@ -1,0 +1,2 @@
+D:\SQL Server\Assisted Project\Assisted Projects\ASPSec4-HTML forms\ASPSec4-HTML forms\obj\Debug\ASPSec4-HTML forms.csproj.AssemblyReference.cache
+D:\SQL Server\Assisted Project\Assisted Projects\ASPSec4-HTML forms\ASPSec4-HTML forms\obj\Debug\ASPSec4-HTML forms.csproj.CoreCompileInputs.cache
